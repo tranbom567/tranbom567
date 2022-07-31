@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Kazuo
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning T-SQL
