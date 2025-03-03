@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Dot Pie
-- 👀 I’m interested in game development, Computer Science, minecraft modding
-- 🌱 I’m currently learning computer science and game develop
+- 👀 I’m interested in game development, Trading, minecraft modding
+- 🌱 I’m currently learning algorithmic trading and game development
 - I know some programming language: Java, C#, C++
